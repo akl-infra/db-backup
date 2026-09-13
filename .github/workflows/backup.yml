@@ -4,7 +4,7 @@
 # Fetches /v1/dump/latest.json from the public API, downloads the gzip it
 # names, verifies the sha256 it declares, then keeps only the current state
 # -- records, layout_formats, likes, authors, admins, bans, clients,
-# import_map, meta -- and drops the event log, the revision history and the
+# import_map, meta -- ONE FILE PER TABLE under snapshot/ -- and drops the event log, the revision history and the
 # caches. Committed as canonical JSON so git delta-compresses night to night.
 # A night with no change commits nothing.
 name: backup
@@ -35,15 +35,18 @@ jobs:
           key=$(jq -r .key latest.json); sha=$(jq -r .sha256 latest.json)
           curl -fsS "$API/v1/dump/$key" -o dump.json.gz
           echo "$sha  dump.json.gz" | sha256sum -c -
-          gunzip -c dump.json.gz \
-            | jq -S --indent 1 'del(.events, .layout_revs, .auth_cache, .import_state, .link_submissions)' \
-            > snapshot.json
+          gunzip -c dump.json.gz > dump.json
+          rm -rf snapshot && mkdir snapshot
+          for t in records layout_formats likes authors admins bans clients import_map meta; do
+            jq -S --indent 1 ".$t" dump.json > "snapshot/$t.json"
+          done
+          rm -f dump.json
           jq '{date, seq, layout_count, source_sha256: .sha256, source_key: .key}' latest.json > manifest.json
           rm -f dump.json.gz latest.json
       - name: Commit if changed
         run: |
           set -eu
-          git add snapshot.json manifest.json
+          git add snapshot manifest.json
           if git diff --cached --quiet; then echo "no change tonight"; exit 0; fi
           git -c user.name=akldb-backup[bot] -c user.email=actions@github.com \
             commit -m "snapshot $(jq -r .date manifest.json): seq $(jq -r .seq manifest.json), $(jq -r .layout_count manifest.json) layouts"

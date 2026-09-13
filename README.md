@@ -3,8 +3,9 @@
 A nightly, git-committed snapshot of the akldb layout database, taken from
 the public API (`https://api.akldb.org/v1/dump/latest.json`). Each night the
 workflow downloads the dump the API names, verifies its sha256, and commits
-the current state as `snapshot.json`: layout records and their stored
-formats, likes, authors, admins, bans, clients and the cmini import map. The
+the current state as one file per table under `snapshot/`: `records.json`,
+`layout_formats.json`, `likes.json`, `authors.json`, `admins.json`, `bans.json`,
+`clients.json`, `import_map.json`, `meta.json`. The
 event log, the per-layout revision history and the caches are deliberately
 left out -- this is a snapshot of what exists, not material for replaying
 how it got there. `manifest.json` records the date, sequence number and
