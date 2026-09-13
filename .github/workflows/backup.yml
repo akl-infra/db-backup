@@ -1,0 +1,46 @@
+# Nightly akldb backup as a git commit (decided 2026-09-13: "we don't need
+# releases as long as there is a nightly commit on a public repo"). Fetches
+# /v1/dump/latest.json from the public API, downloads the gzip it names,
+# verifies the sha256 it declares, and commits the DECOMPRESSED dump as
+# canonical JSON so git delta-compresses night-to-night (the gzip itself
+# would add ~1.6 MB of incompressible history per day). A night with no
+# change commits nothing.
+name: backup
+
+on:
+  schedule:
+    - cron: "30 4 * * *" # 04:30 UTC daily, after akldb's own 04:00 dump job
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Fetch, verify, decompress
+        env:
+          API: https://api.akldb.org
+        run: |
+          set -eu
+          curl -fsS "$API/v1/dump/latest.json" -o latest.json
+          key=$(jq -r .key latest.json); sha=$(jq -r .sha256 latest.json)
+          curl -fsS "$API/v1/dump/$key" -o dump.json.gz
+          echo "$sha  dump.json.gz" | sha256sum -c -
+          gunzip -c dump.json.gz | jq -S . > dump.json
+          jq '{date, seq, layout_count, sha256, key}' latest.json > manifest.json
+          rm -f dump.json.gz latest.json
+      - name: Commit if changed
+        run: |
+          set -eu
+          git add dump.json manifest.json
+          if git diff --cached --quiet; then echo "no change tonight"; exit 0; fi
+          git -c user.name=akldb-backup[bot] -c user.email=actions@github.com \
+            commit -m "backup $(jq -r .date manifest.json): seq $(jq -r .seq manifest.json), $(jq -r .layout_count manifest.json) layouts"
+          git push
