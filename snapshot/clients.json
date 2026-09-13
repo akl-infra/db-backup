@@ -1,0 +1,90 @@
+[
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-09-09T14:17:55Z",
+  "discord_app_id": null,
+  "id": "01M238GM2C681B74PGZFA4J79F",
+  "name": "ops-bootstrap (Dario, manual admin kicks + spark dev)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "7iEVk_n7cgB1aKA2LHqOLqhE7f2PMCaRkBj2IPtp1_g",
+  "revoked_at": null,
+  "status": "active"
+ },
+ {
+  "caps": "act-as-user,feed:wait",
+  "created_at": "2026-09-09T14:18:53.924Z",
+  "discord_app_id": "1537826030046281909",
+  "id": "01M238JD34ZE1C0YJ15N02Y293",
+  "name": "spark (the Discord bot)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "Ql81xXqz3-W7Wroo1gw4BmV0VRXg96RWneERndORre8",
+  "revoked_at": null,
+  "status": "active"
+ },
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-09-11T14:58:02.709Z",
+  "discord_app_id": null,
+  "id": "01M28FJQPX2QA55ZY28MF8AWXB",
+  "name": "temp magic reset (Dario-approved 2026-09-11)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "sbHsD52FwrsSqyfOOhz6vrMuhW0qBSEZtCJfwXrqUvI",
+  "revoked_at": "2026-09-11T14:59:10.802Z",
+  "status": "revoked"
+ },
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-09-11T15:24:36.808Z",
+  "discord_app_id": null,
+  "id": "01M28H44J7SRCPE5SB3HJPPZ5D",
+  "name": "e2e-bot-db-site (prod, one layoutdb)",
+  "owner_user_id": "1999000000000000313",
+  "pubkey": "HDAe2s018pR97HsVgIOGrFa6pfPf9j9dP25hawt8Yko",
+  "revoked_at": "2026-09-11T17:18:11.448Z",
+  "status": "revoked"
+ },
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-09-11T15:50:43.934Z",
+  "discord_app_id": null,
+  "id": "01M28JKZ0TVVDV5D8ZTGMFSRVT",
+  "name": "temp magic reset 2 (Dario-approved 2026-09-11)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "iduDMIHLYeLbP05fhSZxyoIJhyB24iRMccylGmOi3so",
+  "revoked_at": "2026-09-11T15:50:47.504Z",
+  "status": "revoked"
+ },
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-09-11T16:34:17.054Z",
+  "discord_app_id": null,
+  "id": "01M28N3Q47386WP4XWSMH5881T",
+  "name": "temp rebuild (import ticks + magic seed, Dario 2026-09-11)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "Unux_KfJRs8gh3kvEcerWs2DhS3qWXJTeiOCLi6rtrA",
+  "revoked_at": "2026-09-11T17:10:49.085Z",
+  "status": "revoked"
+ },
+ {
+  "caps": "act-as-user",
+  "created_at": "2026-09-12T03:40:30.000Z",
+  "discord_app_id": null,
+  "id": "01M29V46BGK1FKV0NPWWJK23Y2",
+  "name": "rebuild-2026-09-12 (temp, revoke after)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "Niak88zD-TyE6vFRguCyNnyFFxLpn1AKrXA3WnpPXnU",
+  "revoked_at": "2026-09-12T04:06:20.798Z",
+  "status": "revoked"
+ },
+ {
+  "caps": "act-as-owner-only,feed:wait",
+  "created_at": "2026-09-12T19:38:46.000Z",
+  "discord_app_id": null,
+  "id": "01M2BJ11PDDXS6SBT4TQPE9R3H",
+  "name": "latency-measure (lead, V1, 2026-09-12; revoke after)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "Rx2DbsprpSnFtgszW4Gk8K_X4eLffQ9N_ybZ8uvNsOc",
+  "revoked_at": null,
+  "status": "active"
+ }
+]
