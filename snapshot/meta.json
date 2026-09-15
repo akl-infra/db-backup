@@ -1,13 +1,13 @@
 {
  "author_count": 367,
- "authors_modified_at": "2026-09-13T04:56:35.096Z",
- "authors_version": 831,
+ "authors_modified_at": "2026-09-15T01:50:07.763Z",
+ "authors_version": 833,
  "formats": [
   "spark/1",
   "mana2/1"
  ],
- "layout_count": 4184,
- "layouts_modified_at": "2026-09-14T01:05:05Z",
- "revision": "2026-09-14T01:55:38.860Z",
- "seq": 45322
+ "layout_count": 4223,
+ "layouts_modified_at": "2026-09-15T00:29:38.602Z",
+ "revision": "2026-09-15T02:02:22.117Z",
+ "seq": 45511
 }

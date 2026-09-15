@@ -606,6 +606,12 @@
   "via": "import:cmini"
  },
  {
+  "at": "2026-09-14T04:05:38.733Z",
+  "layout_id": "01M2CZ69VQJQNVMBSYE06WY89M",
+  "user_id": "581630432265895957",
+  "via": "import:cmini"
+ },
+ {
   "at": "2026-09-13T08:47:25.071Z",
   "layout_id": "01M2CZ69VQJQNVMBSYE06WY89M",
   "user_id": "604370517058781209",
@@ -2046,6 +2052,12 @@
   "via": "import:cmini"
  },
  {
+  "at": "2026-09-14T04:05:39.617Z",
+  "layout_id": "01M2CZ85MMZJSQM2PPCB1C5ZAE",
+  "user_id": "581630432265895957",
+  "via": "import:cmini"
+ },
+ {
   "at": "2026-09-13T08:48:26.365Z",
   "layout_id": "01M2CZ864B0J6V1JXPZXP8PZ53",
   "user_id": "373072071195885579",
@@ -2632,6 +2644,12 @@
   "layout_id": "01M2CZ927NQJTV6G34XNXCGE9K",
   "user_id": "1502923674104365108",
   "via": "import:cmini"
+ },
+ {
+  "at": "2026-09-14T18:19:05.162Z",
+  "layout_id": "01M2CZ927NQJTV6G34XNXCGE9K",
+  "user_id": "226128695377526784",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293"
  },
  {
   "at": "2026-09-13T08:48:55.526Z",
@@ -3228,7 +3246,7 @@
   "via": "import:cmini"
  },
  {
-  "at": "2026-09-13T08:49:23.012Z",
+  "at": "2026-09-14T18:55:52.285Z",
   "layout_id": "01M2CZ9WTKDDFRCJNAHVPR5R8J",
   "user_id": "525231824465690645",
   "via": "import:cmini"
@@ -3252,13 +3270,7 @@
   "via": "import:cmini"
  },
  {
-  "at": "2026-09-13T08:49:22.693Z",
-  "layout_id": "01M2CZ9WTKDDFRCJNAHVPR5R8J",
-  "user_id": "897962192714993706",
-  "via": "import:cmini"
- },
- {
-  "at": "2026-09-13T08:49:23.073Z",
+  "at": "2026-09-14T18:10:55.522Z",
   "layout_id": "01M2CZ9WTKDDFRCJNAHVPR5R8J",
   "user_id": "990947281857577002",
   "via": "import:cmini"
@@ -6684,6 +6696,12 @@
   "via": "import:cmini"
  },
  {
+  "at": "2026-09-14T04:05:42.278Z",
+  "layout_id": "01M2CZEYD5JN4HH1T9Y0T0JX8R",
+  "user_id": "581630432265895957",
+  "via": "import:cmini"
+ },
+ {
   "at": "2026-09-13T08:52:07.963Z",
   "layout_id": "01M2CZEYD5JN4HH1T9Y0T0JX8R",
   "user_id": "589412950205530124",
@@ -7830,10 +7848,10 @@
   "via": "import:cmini"
  },
  {
-  "at": "2026-09-13T08:53:07.140Z",
+  "at": "2026-09-14T18:17:56.408Z",
   "layout_id": "01M2CZGR0RYXNCB777GPZGGBFN",
   "user_id": "1451323852658577581",
-  "via": "import:cmini"
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293"
  },
  {
   "at": "2026-09-13T08:53:06.948Z",
@@ -7863,6 +7881,12 @@
   "at": "2026-09-13T08:53:06.885Z",
   "layout_id": "01M2CZGR0RYXNCB777GPZGGBFN",
   "user_id": "525231824465690645",
+  "via": "import:cmini"
+ },
+ {
+  "at": "2026-09-14T04:05:44.940Z",
+  "layout_id": "01M2CZGR0RYXNCB777GPZGGBFN",
+  "user_id": "581630432265895957",
   "via": "import:cmini"
  },
  {
@@ -10356,6 +10380,12 @@
   "via": "import:cmini"
  },
  {
+  "at": "2026-09-14T18:12:48.858Z",
+  "layout_id": "01M2CZMY474G2JPWMJG10NJBPM",
+  "user_id": "525231824465690645",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293"
+ },
+ {
   "at": "2026-09-13T08:55:25.064Z",
   "layout_id": "01M2CZMYZ6C4GX7XGN80B8CB6Z",
   "user_id": "1179652661033836655",
@@ -11460,6 +11490,12 @@
   "via": "import:cmini"
  },
  {
+  "at": "2026-09-14T13:35:51.184Z",
+  "layout_id": "01M2CZPY4MJMX004K5P99SE3KC",
+  "user_id": "782784290769207336",
+  "via": "import:cmini"
+ },
+ {
   "at": "2026-09-13T08:56:29.900Z",
   "layout_id": "01M2CZPYAZ1EC8M4MHD2MTS3F1",
   "user_id": "333362365292740609",
@@ -11680,6 +11716,12 @@
   "layout_id": "01M2CZQ9M58B28EZMENP61WC1M",
   "user_id": "897962192714993706",
   "via": "import:cmini"
+ },
+ {
+  "at": "2026-09-14T19:56:31.904Z",
+  "layout_id": "01M2CZQA20RXFXS77B0PY314EV",
+  "user_id": "782784290769207336",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293"
  },
  {
   "at": "2026-09-13T08:56:43.409Z",
@@ -12297,6 +12339,12 @@
   "at": "2026-09-13T08:57:15.438Z",
   "layout_id": "01M2CZRAK12S2S9EKW7G3JZ977",
   "user_id": "657688933001330718",
+  "via": "import:cmini"
+ },
+ {
+  "at": "2026-09-14T19:01:01.287Z",
+  "layout_id": "01M2GMPHZNJWZDC0V1GDYZRHT0",
+  "user_id": "226128695377526784",
   "via": "import:cmini"
  }
 ]
