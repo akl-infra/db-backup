@@ -638,7 +638,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-09-18T03:00:19.054Z",
+  "last_seen_at": "2026-09-19T03:00:31.104Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -757,7 +757,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-09-17T04:21:55.150Z",
+  "last_seen_at": "2026-09-18T03:08:28.516Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -890,7 +890,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-18T01:28:07.564Z",
+  "last_seen_at": "2026-09-19T01:38:30.925Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1030,7 +1030,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-15T21:14:54.237Z",
+  "last_seen_at": "2026-09-18T21:58:08.759Z",
   "name": "rzssh",
   "name_source": "import",
   "user_id": "260844740797399050"
@@ -1051,7 +1051,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-15T15:09:20.619Z",
+  "last_seen_at": "2026-09-18T11:27:08.639Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1429,7 +1429,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-18T02:03:06.215Z",
+  "last_seen_at": "2026-09-19T02:22:21.010Z",
   "name": "zak.7",
   "name_source": "user",
   "user_id": "383900587877597186"
@@ -1730,14 +1730,14 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-15T22:22:48.231Z",
+  "last_seen_at": "2026-09-18T03:18:12.420Z",
   "name": "diego_villalobos",
   "name_source": "import",
   "user_id": "525231824465690645"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-17T15:39:03.739Z",
+  "last_seen_at": "2026-09-18T11:15:10.776Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -1989,7 +1989,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-17T13:38:13.577Z",
+  "last_seen_at": "2026-09-18T12:06:43.765Z",
   "name": "kilipan",
   "name_source": "user",
   "user_id": "668065238070984744"
@@ -2094,7 +2094,7 @@
  },
  {
   "first_seen_at": "2026-09-17T21:49:19.190Z",
-  "last_seen_at": "2026-09-18T02:08:52.520Z",
+  "last_seen_at": "2026-09-18T22:09:32.375Z",
   "name": "azzamsa",
   "name_source": "user",
   "user_id": "721633685912289322"
@@ -2199,9 +2199,9 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-11T16:39:55.409Z",
+  "last_seen_at": "2026-09-18T20:38:04.807Z",
   "name": "5quidwyrm",
-  "name_source": "import",
+  "name_source": "user",
   "user_id": "766194884095901746"
  },
  {
@@ -2241,7 +2241,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-17T17:03:26.164Z",
+  "last_seen_at": "2026-09-18T22:15:09.478Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2332,7 +2332,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-17T21:16:32.000Z",
+  "last_seen_at": "2026-09-18T22:45:13.191Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
@@ -2451,7 +2451,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-16T01:39:36.397Z",
+  "last_seen_at": "2026-09-18T22:46:34.717Z",
   "name": "venezuelacapital",
   "name_source": "import",
   "user_id": "897962192714993706"
@@ -2570,7 +2570,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-17T19:38:37.929Z",
+  "last_seen_at": "2026-09-19T02:08:27.221Z",
   "name": "zweihandxr",
   "name_source": "import",
   "user_id": "990947281857577002"
