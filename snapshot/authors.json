@@ -316,7 +316,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-15T19:56:02.134Z",
+  "last_seen_at": "2026-09-22T17:36:00.934Z",
   "name": "yzide01",
   "name_source": "import",
   "user_id": "1203272268449579041"
@@ -407,7 +407,7 @@
  },
  {
   "first_seen_at": "2026-09-19T03:00:59.357Z",
-  "last_seen_at": "2026-09-21T08:22:14.818Z",
+  "last_seen_at": "2026-09-22T14:25:09.484Z",
   "name": "lonaatic",
   "name_source": "user",
   "user_id": "1260034369280675952"
@@ -456,7 +456,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-21T02:55:36.607Z",
+  "last_seen_at": "2026-09-22T06:46:07.651Z",
   "name": "stronglytyped",
   "name_source": "import",
   "user_id": "130544188818194432"
@@ -645,7 +645,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-09-22T02:59:59.434Z",
+  "last_seen_at": "2026-09-23T03:00:06.586Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -764,7 +764,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-09-22T02:47:38.571Z",
+  "last_seen_at": "2026-09-23T02:01:44.269Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -897,7 +897,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-22T00:30:10.218Z",
+  "last_seen_at": "2026-09-23T02:20:56.619Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1058,7 +1058,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-20T12:41:04.905Z",
+  "last_seen_at": "2026-09-22T19:00:52.282Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1436,7 +1436,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-21T22:31:55.627Z",
+  "last_seen_at": "2026-09-23T02:03:29.572Z",
   "name": "zak.7",
   "name_source": "user",
   "user_id": "383900587877597186"
@@ -2129,7 +2129,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-11T16:39:55.409Z",
+  "last_seen_at": "2026-09-23T00:04:32.222Z",
   "name": "goober_tony",
   "name_source": "import",
   "user_id": "736739510251028480"
@@ -2248,7 +2248,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-22T00:59:40.899Z",
+  "last_seen_at": "2026-09-23T01:17:38.848Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2339,7 +2339,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-21T20:19:39.513Z",
+  "last_seen_at": "2026-09-22T15:15:50.115Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
@@ -2455,6 +2455,13 @@
   "name": ");",
   "name_source": "import",
   "user_id": "891158766458896404"
+ },
+ {
+  "first_seen_at": "2026-09-23T00:04:29.269Z",
+  "last_seen_at": "2026-09-23T00:04:51.286Z",
+  "name": "895686128131256351",
+  "name_source": "client",
+  "user_id": "895686128131256351"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
