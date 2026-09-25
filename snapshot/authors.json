@@ -316,7 +316,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T18:53:08.760Z",
+  "last_seen_at": "2026-09-24T21:45:42.171Z",
   "name": "acas",
   "name_source": "user",
   "user_id": "119825772901957632"
@@ -414,7 +414,7 @@
  },
  {
   "first_seen_at": "2026-09-19T03:00:59.357Z",
-  "last_seen_at": "2026-09-22T14:25:09.484Z",
+  "last_seen_at": "2026-09-24T07:46:58.734Z",
   "name": "lonaatic",
   "name_source": "user",
   "user_id": "1260034369280675952"
@@ -652,7 +652,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-09-24T02:59:55.252Z",
+  "last_seen_at": "2026-09-25T03:00:30.566Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -684,6 +684,13 @@
   "name": "1547267727939469504",
   "name_source": "client",
   "user_id": "1547267727939469504"
+ },
+ {
+  "first_seen_at": "2026-09-24T17:22:54.389Z",
+  "last_seen_at": "2026-09-25T00:38:54.021Z",
+  "name": "anonakl",
+  "name_source": "user",
+  "user_id": "1552728612510244965"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
@@ -778,7 +785,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-09-23T15:50:50.371Z",
+  "last_seen_at": "2026-09-24T17:10:44.001Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -911,7 +918,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-24T02:09:14.284Z",
+  "last_seen_at": "2026-09-25T02:57:01.630Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1072,7 +1079,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T17:26:40.158Z",
+  "last_seen_at": "2026-09-24T18:44:04.966Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1450,7 +1457,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T02:03:29.572Z",
+  "last_seen_at": "2026-09-24T22:23:28.268Z",
   "name": "zak.7",
   "name_source": "user",
   "user_id": "383900587877597186"
@@ -1751,14 +1758,14 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-18T03:18:12.420Z",
+  "last_seen_at": "2026-09-24T23:17:48.207Z",
   "name": "diego_villalobos",
   "name_source": "import",
   "user_id": "525231824465690645"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T13:10:08.153Z",
+  "last_seen_at": "2026-09-24T05:49:11.412Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -1835,7 +1842,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-15T22:20:35.823Z",
+  "last_seen_at": "2026-09-24T22:35:20.992Z",
   "name": "reeve_.",
   "name_source": "import",
   "user_id": "581630432265895957"
@@ -2010,7 +2017,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T13:56:39.059Z",
+  "last_seen_at": "2026-09-24T20:22:03.175Z",
   "name": "kilipan",
   "name_source": "user",
   "user_id": "668065238070984744"
@@ -2115,7 +2122,7 @@
  },
  {
   "first_seen_at": "2026-09-17T21:49:19.190Z",
-  "last_seen_at": "2026-09-23T22:05:51.829Z",
+  "last_seen_at": "2026-09-25T00:49:38.057Z",
   "name": "azzamsa",
   "name_source": "user",
   "user_id": "721633685912289322"
@@ -2213,7 +2220,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T16:00:00.749Z",
+  "last_seen_at": "2026-09-24T22:57:01.511Z",
   "name": "galileotime",
   "name_source": "import",
   "user_id": "761732338744557568"
@@ -2262,7 +2269,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T22:47:15.067Z",
+  "last_seen_at": "2026-09-25T01:53:08.581Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2353,7 +2360,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-23T11:20:12.570Z",
+  "last_seen_at": "2026-09-24T22:04:24.929Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
