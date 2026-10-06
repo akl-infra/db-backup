@@ -97,5 +97,16 @@
   "pubkey": "zT5Syck9G6GtWsQCctV6vQMbZlw_rsXR1eghXgx1dCs",
   "revoked_at": null,
   "status": "active"
+ },
+ {
+  "caps": "act-as-owner-only",
+  "created_at": "2026-10-06T05:18:55.827Z",
+  "discord_app_id": null,
+  "id": "01M47TD3AKDSSJKNV8YJSRTWWC",
+  "name": "ci-predeploy-dump (akl-infra/db deploy job, db#8; one call: POST /v1/admin/dump)",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "51RDlebCHEc3fYFX8vgiFV7op35mM9d6GrRYxMGWZQk",
+  "revoked_at": null,
+  "status": "active"
  }
 ]

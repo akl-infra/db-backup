@@ -344,7 +344,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T01:35:17.025Z",
+  "last_seen_at": "2026-10-05T10:43:43.963Z",
   "name": "lenchog",
   "name_source": "user",
   "user_id": "1204708988298461234"
@@ -589,7 +589,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-27T21:17:37.729Z",
+  "last_seen_at": "2026-10-06T03:37:12.106Z",
   "name": "aaaazmuh",
   "name_source": "import",
   "user_id": "1451323852658577581"
@@ -680,7 +680,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-10-05T03:00:40.450Z",
+  "last_seen_at": "2026-10-06T05:18:56.631Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -722,7 +722,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-10-05T00:00:02.229Z",
+  "last_seen_at": "2026-10-06T05:13:55.136Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -827,7 +827,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-10-05T02:41:58.923Z",
+  "last_seen_at": "2026-10-06T05:19:19.255Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -1092,6 +1092,13 @@
   "user_id": "252155920157507584"
  },
  {
+  "first_seen_at": "2026-10-05T11:25:46.585Z",
+  "last_seen_at": "2026-10-05T11:45:01.867Z",
+  "name": "psyshi",
+  "name_source": "user",
+  "user_id": "253707324173058049"
+ },
+ {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
   "last_seen_at": "2026-09-11T16:39:55.409Z",
   "name": "chillmute",
@@ -1100,9 +1107,9 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-11T16:39:55.409Z",
+  "last_seen_at": "2026-10-05T21:12:21.179Z",
   "name": "newx_it",
-  "name_source": "import",
+  "name_source": "user",
   "user_id": "259380606759206922"
  },
  {
@@ -1114,7 +1121,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T01:03:46.596Z",
+  "last_seen_at": "2026-10-05T20:30:49.477Z",
   "name": "rzssh",
   "name_source": "user",
   "user_id": "260844740797399050"
@@ -1135,7 +1142,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T02:39:20.307Z",
+  "last_seen_at": "2026-10-05T07:01:20.270Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1527,7 +1534,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T02:09:19.776Z",
+  "last_seen_at": "2026-10-06T01:56:47.189Z",
   "name": "zak.7",
   "name_source": "user",
   "user_id": "383900587877597186"
@@ -1800,7 +1807,7 @@
  },
  {
   "first_seen_at": "2026-10-05T01:59:34.965Z",
-  "last_seen_at": "2026-10-05T01:59:34.965Z",
+  "last_seen_at": "2026-10-05T23:27:32.192Z",
   "name": "synthesighs",
   "name_source": "user",
   "user_id": "499778711768399872"
@@ -1842,7 +1849,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T02:37:17.856Z",
+  "last_seen_at": "2026-10-05T21:25:34.030Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -1926,7 +1933,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T02:29:59.557Z",
+  "last_seen_at": "2026-10-06T04:57:38.481Z",
   "name": "reeve_.",
   "name_source": "user",
   "user_id": "581630432265895957"
@@ -2325,7 +2332,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-01T16:20:19.097Z",
+  "last_seen_at": "2026-10-05T22:35:31.494Z",
   "name": "5quidwyrm",
   "name_source": "user",
   "user_id": "766194884095901746"
@@ -2367,7 +2374,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T01:08:11.250Z",
+  "last_seen_at": "2026-10-05T21:27:53.745Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2388,7 +2395,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-11T16:39:55.409Z",
+  "last_seen_at": "2026-10-05T03:38:25.600Z",
   "name": "basil_72",
   "name_source": "import",
   "user_id": "793377774768488479"
@@ -2458,7 +2465,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-04T18:59:49.467Z",
+  "last_seen_at": "2026-10-05T19:17:55.640Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
@@ -2584,7 +2591,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-02T06:52:13.840Z",
+  "last_seen_at": "2026-10-05T11:50:09.773Z",
   "name": "venezuelacapital",
   "name_source": "import",
   "user_id": "897962192714993706"
