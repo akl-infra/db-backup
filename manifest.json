@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-06",
-  "seq": 46855,
-  "layout_count": 4343,
-  "source_sha256": "3a92623bb60ba7fe64b47b5ab69dd1f88acf08c9c7653407778e051c88623591",
-  "source_key": "dump-2026-10-06.json.gz"
+  "date": "2026-10-07",
+  "seq": 46884,
+  "layout_count": 4346,
+  "source_sha256": "28fedc77ce9780831531b64811870a04a6a87d5c029020ec9696546b3ebc4992",
+  "source_key": "dump-2026-10-07.json.gz"
 }
