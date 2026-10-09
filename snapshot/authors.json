@@ -155,7 +155,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-07T14:27:37.588Z",
+  "last_seen_at": "2026-10-08T11:37:34.428Z",
   "name": "_vinncent_",
   "name_source": "user",
   "user_id": "1074951680594038885"
@@ -344,7 +344,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-07T08:02:13.634Z",
+  "last_seen_at": "2026-10-09T00:57:48.318Z",
   "name": "lenchog",
   "name_source": "user",
   "user_id": "1204708988298461234"
@@ -428,7 +428,7 @@
  },
  {
   "first_seen_at": "2026-09-19T03:00:59.357Z",
-  "last_seen_at": "2026-09-24T07:46:58.734Z",
+  "last_seen_at": "2026-10-08T14:47:51.670Z",
   "name": "lonaatic",
   "name_source": "user",
   "user_id": "1260034369280675952"
@@ -540,7 +540,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-08T02:22:46.605Z",
+  "last_seen_at": "2026-10-09T02:10:32.331Z",
   "name": "goodfellow6148",
   "name_source": "user",
   "user_id": "135425651397099520"
@@ -680,7 +680,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-10-08T03:00:59.563Z",
+  "last_seen_at": "2026-10-09T03:01:07.784Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -722,7 +722,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-10-07T04:53:36.546Z",
+  "last_seen_at": "2026-10-09T00:31:25.297Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -827,7 +827,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-10-07T04:40:15.346Z",
+  "last_seen_at": "2026-10-08T05:17:43.432Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -974,7 +974,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-08T01:49:55.676Z",
+  "last_seen_at": "2026-10-08T22:38:05.867Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1121,7 +1121,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-08T02:40:20.095Z",
+  "last_seen_at": "2026-10-09T02:37:08.802Z",
   "name": "rzssh",
   "name_source": "user",
   "user_id": "260844740797399050"
@@ -1405,6 +1405,13 @@
   "name": "foxomat",
   "name_source": "import",
   "user_id": "339140864255459328"
+ },
+ {
+  "first_seen_at": "2026-10-08T11:09:45.038Z",
+  "last_seen_at": "2026-10-08T11:14:54.516Z",
+  "name": "timmacfarlane",
+  "name_source": "user",
+  "user_id": "339800417536049154"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
@@ -1807,7 +1814,7 @@
  },
  {
   "first_seen_at": "2026-10-05T01:59:34.965Z",
-  "last_seen_at": "2026-10-07T18:33:21.593Z",
+  "last_seen_at": "2026-10-09T00:10:41.009Z",
   "name": "synthesighs",
   "name_source": "user",
   "user_id": "499778711768399872"
@@ -2115,7 +2122,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-07T11:59:30.695Z",
+  "last_seen_at": "2026-10-08T08:51:28.748Z",
   "name": "kilipan",
   "name_source": "user",
   "user_id": "668065238070984744"
@@ -2472,7 +2479,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-07T22:58:42.210Z",
+  "last_seen_at": "2026-10-08T21:41:06.815Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
