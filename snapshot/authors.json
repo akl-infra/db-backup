@@ -295,7 +295,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-11T16:39:55.409Z",
+  "last_seen_at": "2026-10-16T06:44:40.992Z",
   "name": "radjisk",
   "name_source": "import",
   "user_id": "115623048077377544"
@@ -344,7 +344,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-15T05:27:53.955Z",
+  "last_seen_at": "2026-10-16T06:30:24.503Z",
   "name": "lenchog",
   "name_source": "user",
   "user_id": "1204708988298461234"
@@ -365,7 +365,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-16T02:00:50.611Z",
+  "last_seen_at": "2026-10-16T14:09:09.453Z",
   "name": "brownfoxjumps",
   "name_source": "user",
   "user_id": "1215831841638977609"
@@ -547,7 +547,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-16T02:37:59.344Z",
+  "last_seen_at": "2026-10-16T22:39:09.311Z",
   "name": "goodfellow6148",
   "name_source": "user",
   "user_id": "135425651397099520"
@@ -687,7 +687,7 @@
  },
  {
   "first_seen_at": "2026-09-12T19:50:58.105Z",
-  "last_seen_at": "2026-10-16T03:00:32.005Z",
+  "last_seen_at": "2026-10-17T03:00:32.306Z",
   "name": "1537826030046281909",
   "name_source": "client",
   "user_id": "1537826030046281909"
@@ -729,7 +729,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-10-15T21:40:15.994Z",
+  "last_seen_at": "2026-10-17T02:23:39.880Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -827,7 +827,7 @@
  },
  {
   "first_seen_at": "2026-10-05T01:11:58.458Z",
-  "last_seen_at": "2026-10-16T01:39:52.681Z",
+  "last_seen_at": "2026-10-17T02:45:24.684Z",
   "name": "supafly208",
   "name_source": "user",
   "user_id": "181587012766138368"
@@ -981,7 +981,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-16T02:12:52.711Z",
+  "last_seen_at": "2026-10-17T01:03:52.768Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1023,9 +1023,9 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-16T01:49:43.702Z",
+  "last_seen_at": "2026-10-16T21:30:48.099Z",
   "name": "lvl.4poopwizard",
-  "name_source": "import",
+  "name_source": "user",
   "user_id": "239978154502914049"
  },
  {
@@ -1149,7 +1149,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-15T09:17:09.245Z",
+  "last_seen_at": "2026-10-16T09:46:37.867Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1534,7 +1534,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-11T13:41:49.000Z",
+  "last_seen_at": "2026-10-16T08:29:10.608Z",
   "name": "nethen.",
   "name_source": "user",
   "user_id": "381846831916908544"
@@ -1863,7 +1863,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-15T20:38:21.148Z",
+  "last_seen_at": "2026-10-17T02:49:55.664Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -1947,7 +1947,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-15T20:37:27.518Z",
+  "last_seen_at": "2026-10-16T07:48:23.461Z",
   "name": "reeve_.",
   "name_source": "user",
   "user_id": "581630432265895957"
@@ -2129,7 +2129,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-15T20:00:29.075Z",
+  "last_seen_at": "2026-10-16T14:04:19.107Z",
   "name": "kilipan",
   "name_source": "user",
   "user_id": "668065238070984744"
@@ -2346,14 +2346,14 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-09-29T22:39:20.860Z",
+  "last_seen_at": "2026-10-16T16:27:11.306Z",
   "name": "galileotime",
   "name_source": "import",
   "user_id": "761732338744557568"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-05T22:35:31.494Z",
+  "last_seen_at": "2026-10-16T13:33:04.974Z",
   "name": "5quidwyrm",
   "name_source": "user",
   "user_id": "766194884095901746"
