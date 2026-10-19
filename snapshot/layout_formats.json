@@ -65014,5 +65014,47 @@
   "rev": 1,
   "source_client": "discord-app:1548813215985565736",
   "source_version": null
+ },
+ {
+  "created_at": "2026-10-19T03:34:22.813Z",
+  "format": "spark/1",
+  "has_alts": 0,
+  "has_combos": 0,
+  "has_magic": 1,
+  "layout_id": "01M593K0AXBEQFW7XSPZKQM61X",
+  "lineage": "spark",
+  "modified_at": "2026-10-19T03:34:22.813Z",
+  "payload_json": "{\"keys\":[{\"char\":\"j\",\"col\":0,\"finger\":\"LP\",\"row\":0},{\"char\":\"p\",\"col\":1,\"finger\":\"LR\",\"row\":0},{\"char\":\"l\",\"col\":2,\"finger\":\"LM\",\"row\":0},{\"char\":\"d\",\"col\":3,\"finger\":\"LI\",\"row\":0},{\"char\":\"k\",\"col\":4,\"finger\":\"LI\",\"row\":0},{\"char\":\"z\",\"col\":5,\"finger\":\"RI\",\"row\":0},{\"char\":\"u\",\"col\":6,\"finger\":\"RI\",\"row\":0},{\"char\":\"o\",\"col\":7,\"finger\":\"RM\",\"row\":0},{\"char\":\"y\",\"col\":8,\"finger\":\"RR\",\"row\":0},{\"char\":\"/\",\"col\":9,\"finger\":\"RP\",\"row\":0},{\"char\":\"n\",\"col\":0,\"finger\":\"LP\",\"row\":1},{\"char\":\"s\",\"col\":1,\"finger\":\"LR\",\"row\":1},{\"char\":\"t\",\"col\":2,\"finger\":\"LM\",\"row\":1},{\"char\":\"h\",\"col\":3,\"finger\":\"LI\",\"row\":1},{\"char\":\"m\",\"col\":4,\"finger\":\"LI\",\"row\":1},{\"char\":\",\",\"col\":5,\"finger\":\"RI\",\"row\":1},{\"char\":\"r\",\"col\":6,\"finger\":\"RI\",\"row\":1},{\"char\":\"a\",\"col\":7,\"finger\":\"RM\",\"row\":1},{\"char\":\"c\",\"col\":8,\"finger\":\"RR\",\"row\":1},{\"char\":\"i\",\"col\":9,\"finger\":\"RP\",\"row\":1},{\"char\":\"b\",\"col\":0,\"finger\":\"LP\",\"row\":2},{\"char\":\"g\",\"col\":1,\"finger\":\"LR\",\"row\":2},{\"char\":\"v\",\"col\":2,\"finger\":\"LM\",\"row\":2},{\"char\":\"*\",\"col\":3,\"finger\":\"LI\",\"row\":2},{\"char\":\"f\",\"col\":4,\"finger\":\"LI\",\"row\":2},{\"char\":\"x\",\"col\":5,\"finger\":\"RI\",\"row\":2},{\"char\":\"w\",\"col\":6,\"finger\":\"RI\",\"row\":2},{\"char\":\"'\",\"col\":7,\"finger\":\"RM\",\"row\":2},{\"char\":\".\",\"col\":8,\"finger\":\"RR\",\"row\":2},{\"char\":\"q\",\"col\":9,\"finger\":\"RP\",\"row\":2},{\"char\":\"e\",\"col\":3,\"finger\":\"LT\",\"row\":3},{\"char\":\" \",\"col\":6,\"finger\":\"RT\",\"row\":3}],\"magic\":{\"adaptive_swaps\":[{\"swap\":[\"s\",\"x\"],\"trigger\":\"g\"},{\"swap\":[\"t\",\"x\"],\"trigger\":\"l\"},{\"swap\":[\"q\",\"u\"],\"trigger\":\"r\"},{\"swap\":[\"p\",\"z\"],\"trigger\":\"s\"}],\"magic_keys\":[{\"key\":\"*\",\"rules\":[{\"after\":\"'\",\"emit\":\"r\"},{\"after\":\"a\",\"emit\":\"y\"},{\"after\":\"c\",\"emit\":\"y\"},{\"after\":\"l\",\"emit\":\"v\"},{\"after\":\"n\",\"emit\":\"g\"},{\"after\":\"p\",\"emit\":\"s\"},{\"after\":\"r\",\"emit\":\",\"},{\"after\":\"t\",\"emit\":\"l\"},{\"after\":\"u\",\"emit\":\"r\"},{\"after\":\"y\",\"emit\":\".\"}]}]}}",
+  "rev": 1,
+  "source_client": "discord-app:1548813215985565736",
+  "source_version": null
+ },
+ {
+  "created_at": "2026-10-19T03:36:25.068Z",
+  "format": "spark/1",
+  "has_alts": 0,
+  "has_combos": 0,
+  "has_magic": 1,
+  "layout_id": "01M593PQQCBRDMVMK2CZV2WVNE",
+  "lineage": "spark",
+  "modified_at": "2026-10-19T03:36:25.068Z",
+  "payload_json": "{\"keys\":[{\"char\":\"v\",\"col\":0,\"finger\":\"LP\",\"row\":0},{\"char\":\"l\",\"col\":1,\"finger\":\"LR\",\"row\":0},{\"char\":\"c\",\"col\":2,\"finger\":\"LM\",\"row\":0},{\"char\":\"w\",\"col\":3,\"finger\":\"LI\",\"row\":0},{\"char\":\"j\",\"col\":4,\"finger\":\"LI\",\"row\":0},{\"char\":\"q\",\"col\":5,\"finger\":\"RI\",\"row\":0},{\"char\":\"f\",\"col\":6,\"finger\":\"RI\",\"row\":0},{\"char\":\"o\",\"col\":7,\"finger\":\"RM\",\"row\":0},{\"char\":\",\",\"col\":8,\"finger\":\"RR\",\"row\":2},{\"char\":\";\",\"col\":9,\"finger\":\"RP\",\"row\":0},{\"char\":\"y\",\"col\":0,\"finger\":\"LP\",\"row\":1},{\"char\":\"r\",\"col\":1,\"finger\":\"LR\",\"row\":1},{\"char\":\"s\",\"col\":2,\"finger\":\"LM\",\"row\":1},{\"char\":\"t\",\"col\":3,\"finger\":\"LI\",\"row\":1},{\"char\":\"m\",\"col\":4,\"finger\":\"LI\",\"row\":1},{\"char\":\"p\",\"col\":5,\"finger\":\"RI\",\"row\":1},{\"char\":\"n\",\"col\":6,\"finger\":\"RI\",\"row\":1},{\"char\":\"a\",\"col\":7,\"finger\":\"RM\",\"row\":1},{\"char\":\"i\",\"col\":8,\"finger\":\"RR\",\"row\":1},{\"char\":\"u\",\"col\":9,\"finger\":\"RP\",\"row\":1},{\"char\":\"z\",\"col\":0,\"finger\":\"LP\",\"row\":2},{\"char\":\"x\",\"col\":1,\"finger\":\"LR\",\"row\":2},{\"char\":\"g\",\"col\":2,\"finger\":\"LM\",\"row\":2},{\"char\":\"d\",\"col\":3,\"finger\":\"LI\",\"row\":2},{\"char\":\"k\",\"col\":4,\"finger\":\"LI\",\"row\":2},{\"char\":\"b\",\"col\":5,\"finger\":\"RI\",\"row\":2},{\"char\":\"h\",\"col\":6,\"finger\":\"RI\",\"row\":2},{\"char\":\"'\",\"col\":7,\"finger\":\"RM\",\"row\":2},{\"char\":\".\",\"col\":8,\"finger\":\"RR\",\"row\":0},{\"char\":\"/\",\"col\":9,\"finger\":\"RP\",\"row\":2},{\"char\":\"e\",\"col\":5,\"finger\":\"RT\",\"row\":3}],\"magic\":{\"adaptive_swaps\":[{\"swap\":[\"c\",\"r\"],\"trigger\":\"s\"},{\"swap\":[\"h\",\"l\"],\"trigger\":\"r\"},{\"swap\":[\"w\",\"g\"],\"trigger\":\"t\"},{\"swap\":[\"'\",\"h\"],\"trigger\":\"u\"},{\"swap\":[\"w\",\"l\"],\"trigger\":\"l\"},{\"swap\":[\"h\",\"d\"],\"trigger\":\"p\"},{\"swap\":[\"'\",\"r\"],\"trigger\":\"n\"},{\"swap\":[\"s\",\"x\"],\"trigger\":\"g\"}]}}",
+  "rev": 1,
+  "source_client": "discord-app:1548813215985565736",
+  "source_version": null
+ },
+ {
+  "created_at": "2026-10-19T03:37:25.233Z",
+  "format": "spark/1",
+  "has_alts": 0,
+  "has_combos": 0,
+  "has_magic": 1,
+  "layout_id": "01M593RJFH2ZWHZRCY3Q768DVZ",
+  "lineage": "spark",
+  "modified_at": "2026-10-19T03:37:25.233Z",
+  "payload_json": "{\"keys\":[{\"char\":\"x\",\"col\":0,\"finger\":\"LP\",\"row\":0},{\"char\":\"l\",\"col\":1,\"finger\":\"LR\",\"row\":0},{\"char\":\"m\",\"col\":2,\"finger\":\"LM\",\"row\":0},{\"char\":\"p\",\"col\":3,\"finger\":\"LI\",\"row\":0},{\"char\":\"f\",\"col\":4,\"finger\":\"LI\",\"row\":0},{\"char\":\"'\",\"col\":5,\"finger\":\"RI\",\"row\":0},{\"char\":\"u\",\"col\":6,\"finger\":\"RI\",\"row\":0},{\"char\":\"o\",\"col\":7,\"finger\":\"RM\",\"row\":0},{\"char\":\"y\",\"col\":8,\"finger\":\"RR\",\"row\":0},{\"char\":\"/\",\"col\":9,\"finger\":\"RP\",\"row\":0},{\"char\":\"n\",\"col\":0,\"finger\":\"LP\",\"row\":1},{\"char\":\"s\",\"col\":1,\"finger\":\"LR\",\"row\":1},{\"char\":\"t\",\"col\":2,\"finger\":\"LM\",\"row\":1},{\"char\":\"h\",\"col\":3,\"finger\":\"LI\",\"row\":1},{\"char\":\"d\",\"col\":4,\"finger\":\"LI\",\"row\":1},{\"char\":\",\",\"col\":5,\"finger\":\"RI\",\"row\":1},{\"char\":\"r\",\"col\":6,\"finger\":\"RI\",\"row\":1},{\"char\":\"a\",\"col\":7,\"finger\":\"RM\",\"row\":1},{\"char\":\"c\",\"col\":8,\"finger\":\"RR\",\"row\":1},{\"char\":\"i\",\"col\":9,\"finger\":\"RP\",\"row\":1},{\"char\":\"j\",\"col\":0,\"finger\":\"LP\",\"row\":2},{\"char\":\"g\",\"col\":1,\"finger\":\"LR\",\"row\":2},{\"char\":\"v\",\"col\":2,\"finger\":\"LM\",\"row\":2},{\"char\":\"*\",\"col\":3,\"finger\":\"LI\",\"row\":2},{\"char\":\"b\",\"col\":4,\"finger\":\"LI\",\"row\":2},{\"char\":\"k\",\"col\":5,\"finger\":\"RI\",\"row\":2},{\"char\":\"w\",\"col\":6,\"finger\":\"RI\",\"row\":2},{\"char\":\"z\",\"col\":7,\"finger\":\"RM\",\"row\":2},{\"char\":\".\",\"col\":8,\"finger\":\"RR\",\"row\":2},{\"char\":\"q\",\"col\":9,\"finger\":\"RP\",\"row\":2},{\"char\":\"e\",\"col\":3,\"finger\":\"LT\",\"row\":3},{\"char\":\" \",\"col\":6,\"finger\":\"RT\",\"row\":3}],\"magic\":{\"adaptive_swaps\":[{\"swap\":[\"s\",\"x\"],\"trigger\":\"l\"},{\"swap\":[\"u\",\"z\"],\"trigger\":\"r\"},{\"swap\":[\"k\",\"q\"],\"trigger\":\"r\"}],\"magic_keys\":[{\"key\":\"*\",\"rules\":[{\"after\":\"'\",\"emit\":\"r\"},{\"after\":\"c\",\"emit\":\"y\"},{\"after\":\"n\",\"emit\":\"g\"},{\"after\":\"p\",\"emit\":\"s\"},{\"after\":\"r\",\"emit\":\",\"},{\"after\":\"t\",\"emit\":\"l\"},{\"after\":\"u\",\"emit\":\"r\"},{\"after\":\"y\",\"emit\":\".\"},{\"after\":\"s\",\"emit\":\"l\"}]}]}}",
+  "rev": 1,
+  "source_client": "discord-app:1548813215985565736",
+  "source_version": null
  }
 ]
