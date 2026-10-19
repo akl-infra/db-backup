@@ -65056,5 +65056,19 @@
   "rev": 1,
   "source_client": "discord-app:1548813215985565736",
   "source_version": null
+ },
+ {
+  "created_at": "2026-10-19T03:45:46.773Z",
+  "format": "spark/1",
+  "has_alts": 0,
+  "has_combos": 0,
+  "has_magic": 0,
+  "layout_id": "01M5947W8NMK9BQ4QN7DB3YCMJ",
+  "lineage": "spark",
+  "modified_at": "2026-10-19T03:45:46.773Z",
+  "payload_json": "{\"keys\":[{\"char\":\"k\",\"col\":0,\"finger\":\"LP\",\"row\":0},{\"char\":\"l\",\"col\":1,\"finger\":\"LR\",\"row\":0},{\"char\":\"d\",\"col\":2,\"finger\":\"LM\",\"row\":0},{\"char\":\"w\",\"col\":3,\"finger\":\"LI\",\"row\":0},{\"char\":\"x\",\"col\":4,\"finger\":\"LI\",\"row\":0},{\"char\":\"q\",\"col\":5,\"finger\":\"RI\",\"row\":0},{\"char\":\"f\",\"col\":6,\"finger\":\"RI\",\"row\":0},{\"char\":\"o\",\"col\":7,\"finger\":\"RM\",\"row\":0},{\"char\":\",\",\"col\":8,\"finger\":\"RR\",\"row\":2},{\"char\":\";\",\"col\":9,\"finger\":\"RP\",\"row\":0},{\"char\":\"y\",\"col\":0,\"finger\":\"LP\",\"row\":1},{\"char\":\"r\",\"col\":1,\"finger\":\"LR\",\"row\":1},{\"char\":\"t\",\"col\":2,\"finger\":\"LM\",\"row\":1},{\"char\":\"s\",\"col\":3,\"finger\":\"LI\",\"row\":1},{\"char\":\"g\",\"col\":4,\"finger\":\"LI\",\"row\":1},{\"char\":\"p\",\"col\":5,\"finger\":\"RI\",\"row\":1},{\"char\":\"n\",\"col\":6,\"finger\":\"RI\",\"row\":1},{\"char\":\"a\",\"col\":7,\"finger\":\"RM\",\"row\":1},{\"char\":\"i\",\"col\":8,\"finger\":\"RR\",\"row\":1},{\"char\":\"u\",\"col\":9,\"finger\":\"RP\",\"row\":1},{\"char\":\"z\",\"col\":0,\"finger\":\"LP\",\"row\":2},{\"char\":\"j\",\"col\":1,\"finger\":\"LR\",\"row\":2},{\"char\":\"m\",\"col\":2,\"finger\":\"LM\",\"row\":2},{\"char\":\"c\",\"col\":3,\"finger\":\"LI\",\"row\":2},{\"char\":\"v\",\"col\":4,\"finger\":\"LI\",\"row\":2},{\"char\":\"b\",\"col\":5,\"finger\":\"RI\",\"row\":2},{\"char\":\"h\",\"col\":6,\"finger\":\"RI\",\"row\":2},{\"char\":\"'\",\"col\":7,\"finger\":\"RM\",\"row\":2},{\"char\":\".\",\"col\":8,\"finger\":\"RR\",\"row\":0},{\"char\":\"/\",\"col\":9,\"finger\":\"RP\",\"row\":2},{\"char\":\"e\",\"col\":5,\"finger\":\"RT\",\"row\":3}]}",
+  "rev": 1,
+  "source_client": "discord-app:1548813215985565736",
+  "source_version": null
  }
 ]
