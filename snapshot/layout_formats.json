@@ -64986,5 +64986,19 @@
   "rev": 1,
   "source_client": "discord-app:1548813215985565736",
   "source_version": null
+ },
+ {
+  "created_at": "2026-10-19T02:37:32.937Z",
+  "format": "spark/1",
+  "has_alts": 0,
+  "has_combos": 0,
+  "has_magic": 1,
+  "layout_id": "01M590AYC9P0GWNWF4230KN4EA",
+  "lineage": "spark",
+  "modified_at": "2026-10-19T02:43:59.284Z",
+  "payload_json": "{\"keys\":[{\"char\":\"x\",\"col\":0,\"finger\":\"LP\",\"row\":0},{\"char\":\"y\",\"col\":1,\"finger\":\"LR\",\"row\":2},{\"char\":\"m\",\"col\":2,\"finger\":\"LM\",\"row\":0},{\"char\":\"w\",\"col\":3,\"finger\":\"LI\",\"row\":0},{\"char\":\"k\",\"col\":4,\"finger\":\"LI\",\"row\":0},{\"char\":\"'\",\"col\":5,\"finger\":\"RI\",\"row\":0},{\"char\":\"f\",\"col\":6,\"finger\":\"RI\",\"row\":0},{\"char\":\"u\",\"col\":7,\"finger\":\"RM\",\"row\":0},{\"char\":\"o\",\"col\":8,\"finger\":\"RR\",\"row\":0},{\"char\":\"b\",\"col\":9,\"finger\":\"RP\",\"row\":0},{\"char\":\"r\",\"col\":0,\"finger\":\"LP\",\"row\":1},{\"char\":\"s\",\"col\":1,\"finger\":\"LR\",\"row\":1},{\"char\":\"t\",\"col\":2,\"finger\":\"LM\",\"row\":1},{\"char\":\"d\",\"col\":3,\"finger\":\"LI\",\"row\":1},{\"char\":\"g\",\"col\":4,\"finger\":\"LI\",\"row\":1},{\"char\":\".\",\"col\":5,\"finger\":\"RI\",\"row\":1},{\"char\":\"l\",\"col\":6,\"finger\":\"RI\",\"row\":1},{\"char\":\"i\",\"col\":7,\"finger\":\"RM\",\"row\":1},{\"char\":\"a\",\"col\":8,\"finger\":\"RR\",\"row\":1},{\"char\":\"h\",\"col\":9,\"finger\":\"RP\",\"row\":1},{\"char\":\";\",\"col\":10,\"finger\":\"RP\",\"row\":1},{\"char\":\"q\",\"col\":0,\"finger\":\"LP\",\"row\":2},{\"char\":\"v\",\"col\":1,\"finger\":\"LR\",\"row\":0},{\"char\":\"*\",\"col\":2,\"finger\":\"LM\",\"row\":2},{\"char\":\"c\",\"col\":3,\"finger\":\"LI\",\"row\":2},{\"char\":\"p\",\"col\":4,\"finger\":\"LI\",\"row\":2},{\"char\":\"j\",\"col\":5,\"finger\":\"RI\",\"row\":2},{\"char\":\"n\",\"col\":6,\"finger\":\"RI\",\"row\":2},{\"char\":\",\",\"col\":7,\"finger\":\"RM\",\"row\":2},{\"char\":\"/\",\"col\":8,\"finger\":\"RR\",\"row\":2},{\"char\":\"z\",\"col\":9,\"finger\":\"RP\",\"row\":2},{\"char\":\"e\",\"col\":6,\"finger\":\"RT\",\"row\":3},{\"char\":\" \",\"col\":3,\"finger\":\"LT\",\"row\":3}],\"magic\":{\"adaptive_swaps\":[{\"swap\":[\"'\",\";\"],\"trigger\":\"n\"},{\"swap\":[\".\",\"q\"],\"trigger\":\"n\"},{\"swap\":[\"j\",\"s\"],\"trigger\":\"y\"}],\"magic_keys\":[{\"default\":{\"kind\":\"repeat\"},\"key\":\"*\",\"rules\":[{\"after\":\"o\",\"emit\":\"a\"},{\"after\":\"u\",\"emit\":\"i\"},{\"after\":\"n\",\"emit\":\"l\"},{\"after\":\"c\",\"emit\":\"k\"},{\"after\":\"b\",\"emit\":\"a\"}]}]}}",
+  "rev": 2,
+  "source_client": "discord-app:1548813215985565736",
+  "source_version": null
  }
 ]
