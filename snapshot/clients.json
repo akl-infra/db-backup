@@ -108,5 +108,16 @@
   "pubkey": "51RDlebCHEc3fYFX8vgiFV7op35mM9d6GrRYxMGWZQk",
   "revoked_at": null,
   "status": "active"
+ },
+ {
+  "caps": "act-as-user,read-only",
+  "created_at": "2026-10-25T16:41:20.946Z",
+  "discord_app_id": null,
+  "id": "01M5SZ09SJDK4FWRRNRNFDH7A7",
+  "name": "spark-shadow",
+  "owner_user_id": "184412255822020608",
+  "pubkey": "O9vcPZNw7hrMqDw_zu83oHfkWa870tSG8FjmFl3lRiw",
+  "revoked_at": null,
+  "status": "active"
  }
 ]
