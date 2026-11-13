@@ -631,7 +631,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-02T01:56:53.102Z",
+  "last_seen_at": "2026-11-12T03:43:36.952Z",
   "name": "aaaazmuh",
   "name_source": "user",
   "user_id": "1451323852658577581"
@@ -938,6 +938,13 @@
   "user_id": "199651470541455360"
  },
  {
+  "first_seen_at": "2026-11-12T07:10:08.216Z",
+  "last_seen_at": "2026-11-12T07:10:08.216Z",
+  "name": "204037794815934464",
+  "name_source": "client",
+  "user_id": "204037794815934464"
+ },
+ {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
   "last_seen_at": "2026-09-11T16:39:55.409Z",
   "name": "stone_skipper",
@@ -1030,7 +1037,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-11T08:16:46.754Z",
+  "last_seen_at": "2026-11-12T15:37:17.817Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1079,7 +1086,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-11T05:42:14.341Z",
+  "last_seen_at": "2026-11-13T02:39:40.762Z",
   "name": "lvl.4poopwizard",
   "name_source": "user",
   "user_id": "239978154502914049"
@@ -1205,7 +1212,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-11T06:44:57.822Z",
+  "last_seen_at": "2026-11-12T07:31:29.794Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1807,7 +1814,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-04T06:06:47.651Z",
+  "last_seen_at": "2026-11-12T06:26:49.917Z",
   "name": "akai_hana",
   "name_source": "user",
   "user_id": "457182030514356226"
@@ -2451,7 +2458,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-11T06:17:18.946Z",
+  "last_seen_at": "2026-11-12T07:02:42.588Z",
   "name": "mateyerba",
   "name_source": "user",
   "user_id": "773077222189432843"
@@ -2472,7 +2479,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-09T23:02:28.772Z",
+  "last_seen_at": "2026-11-12T20:17:22.556Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2696,7 +2703,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-07T20:52:20.422Z",
+  "last_seen_at": "2026-11-12T06:08:35.697Z",
   "name": "venezuelacapital",
   "name_source": "import",
   "user_id": "897962192714993706"
