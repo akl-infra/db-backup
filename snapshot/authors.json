@@ -84,6 +84,13 @@
   "user_id": "103510200165617664"
  },
  {
+  "first_seen_at": "2026-11-13T03:39:01.643Z",
+  "last_seen_at": "2026-11-13T03:39:01.643Z",
+  "name": "commando",
+  "name_source": "user",
+  "user_id": "103682983638106112"
+ },
+ {
   "first_seen_at": "2026-11-02T19:52:36.298Z",
   "last_seen_at": "2026-11-02T19:52:36.298Z",
   "name": "1038427902640926822",
@@ -183,7 +190,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-10T11:38:21.226Z",
+  "last_seen_at": "2026-11-13T08:00:40.672Z",
   "name": "_vinncent_",
   "name_source": "user",
   "user_id": "1074951680594038885"
@@ -771,7 +778,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-11-12T00:27:18.365Z",
+  "last_seen_at": "2026-11-13T03:49:44.977Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -876,7 +883,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-11-11T16:07:42.968Z",
+  "last_seen_at": "2026-11-13T17:21:48.321Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -1933,7 +1940,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-11T11:56:08.048Z",
+  "last_seen_at": "2026-11-13T04:42:53.575Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -2024,7 +2031,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-10T09:20:00.113Z",
+  "last_seen_at": "2026-11-13T04:44:44.612Z",
   "name": "reeve_.",
   "name_source": "user",
   "user_id": "581630432265895957"
