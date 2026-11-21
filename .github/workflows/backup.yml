@@ -37,7 +37,7 @@ jobs:
           echo "$sha  dump.json.gz" | sha256sum -c -
           gunzip -c dump.json.gz > dump.json
           rm -rf snapshot && mkdir snapshot
-          for t in records layout_formats likes authors admins bans clients import_map meta; do
+          for t in records layout_formats likes authors admins bans clients import_map link_submissions wpm_submissions layout_comments comment_likes meta; do
             jq -S --indent 1 ".$t" dump.json > "snapshot/$t.json"
           done
           rm -f dump.json
