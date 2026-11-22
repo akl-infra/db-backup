@@ -344,7 +344,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-15T22:54:04.894Z",
+  "last_seen_at": "2026-11-21T06:45:32.766Z",
   "name": "bhulik",
   "name_source": "import",
   "user_id": "1179652661033836655"
@@ -400,7 +400,7 @@
  },
  {
   "first_seen_at": "2026-10-14T02:46:40.129Z",
-  "last_seen_at": "2026-11-19T16:30:28.177Z",
+  "last_seen_at": "2026-11-21T15:46:56.351Z",
   "name": "1213296707123544127",
   "name_source": "client",
   "user_id": "1213296707123544127"
@@ -540,7 +540,7 @@
  },
  {
   "first_seen_at": "2026-11-16T21:22:19.270Z",
-  "last_seen_at": "2026-11-20T03:51:18.342Z",
+  "last_seen_at": "2026-11-21T14:39:02.572Z",
   "name": "awedish",
   "name_source": "user",
   "user_id": "131937269681618945"
@@ -631,7 +631,7 @@
  },
  {
   "first_seen_at": "2026-11-17T03:12:40.348Z",
-  "last_seen_at": "2026-11-20T17:21:09.383Z",
+  "last_seen_at": "2026-11-21T17:28:07.038Z",
   "name": "yvesglavtcheff",
   "name_source": "user",
   "user_id": "1418799478772600862"
@@ -659,7 +659,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-19T20:28:11.821Z",
+  "last_seen_at": "2026-11-21T18:46:22.970Z",
   "name": "aaaazmuh",
   "name_source": "user",
   "user_id": "1451323852658577581"
@@ -799,7 +799,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-11-20T07:29:58.800Z",
+  "last_seen_at": "2026-11-21T20:40:47.154Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -1072,7 +1072,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T05:43:44.116Z",
+  "last_seen_at": "2026-11-22T02:05:21.368Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1121,7 +1121,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T05:38:06.120Z",
+  "last_seen_at": "2026-11-21T20:16:44.038Z",
   "name": "lvl.4poopwizard",
   "name_source": "user",
   "user_id": "239978154502914049"
@@ -1743,6 +1743,13 @@
   "user_id": "402892761294045187"
  },
  {
+  "first_seen_at": "2026-11-21T03:34:41.148Z",
+  "last_seen_at": "2026-11-21T03:34:41.148Z",
+  "name": "403880889580519446",
+  "name_source": "client",
+  "user_id": "403880889580519446"
+ },
+ {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
   "last_seen_at": "2026-09-11T16:39:55.409Z",
   "name": "gooseunderstars",
@@ -1968,7 +1975,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T12:31:40.969Z",
+  "last_seen_at": "2026-11-21T22:18:57.269Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -2493,7 +2500,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-17T05:45:37.679Z",
+  "last_seen_at": "2026-11-22T02:49:50.201Z",
   "name": "mateyerba",
   "name_source": "user",
   "user_id": "773077222189432843"
@@ -2514,7 +2521,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T15:36:12.751Z",
+  "last_seen_at": "2026-11-21T19:11:08.185Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2605,7 +2612,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T14:21:40.073Z",
+  "last_seen_at": "2026-11-21T14:47:33.992Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
@@ -2836,7 +2843,7 @@
  },
  {
   "first_seen_at": "2026-11-16T13:21:00.373Z",
-  "last_seen_at": "2026-11-20T06:32:52.554Z",
+  "last_seen_at": "2026-11-21T10:05:07.060Z",
   "name": "ashishalexander",
   "name_source": "user",
   "user_id": "960361413732335646"
@@ -2878,7 +2885,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T19:45:55.539Z",
+  "last_seen_at": "2026-11-21T20:43:19.906Z",
   "name": "duodeath",
   "name_source": "user",
   "user_id": "990947281857577002"
