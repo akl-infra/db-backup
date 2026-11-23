@@ -1,0 +1,18 @@
+[
+ {
+  "key": "cmini.last_diff",
+  "value": "{\"at\":\"2026-09-15T04:00:59.857Z\",\"error\":\"failed to fetch https://clemenpine.com/layoutapi/v3/meta after 3 attempts: Error: 404 fetching https://clemenpine.com/layoutapi/v3/meta\",\"ok\":false}"
+ },
+ {
+  "key": "cmini.last_full",
+  "value": "2026-09-14T11:24:03.032Z"
+ },
+ {
+  "key": "cmini.last_tick",
+  "value": "{\"applied\":1,\"at\":\"2026-09-14T23:05:53.164Z\",\"delete_stalled\":null,\"deletes_applied\":0,\"deletes_disabled\":false,\"deletes_planned\":0,\"errored\":0,\"errors\":[],\"full_pass\":false,\"fully_applied\":true,\"planned_fetch\":1,\"processed\":1,\"quiet\":false,\"raced\":0,\"used_full\":false}"
+ },
+ {
+  "key": "cmini.meta_token",
+  "value": "{\"author_count\":420,\"authors_modified_at\":\"2026-08-28T10:29:58Z\",\"layout_count\":4194,\"layouts_modified_at\":\"2026-09-14T23:03:28Z\",\"revision\":\"2026-09-14T23:03:28Z\"}"
+ }
+]

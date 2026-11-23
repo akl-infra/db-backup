@@ -1,0 +1,74 @@
+[
+ {
+  "decided_at": "2026-09-15T00:08:28.612Z",
+  "decided_by": "184412255822020608",
+  "id": "01M2H6939FGAJWGQZADJBDABHQ",
+  "layout_id": "01M2GZHHQFBNDMZXA565KFMQ9Q",
+  "notified_at": "2026-09-15T00:08:13.826Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-09-15T00:08:13.826Z",
+  "submitted_by": "184412255822020608",
+  "url": "https://preview.akl.gg/#.ggTUAGcAujAxTTJHWkhIUUZCTkRNWlhBNTY1S0ZNUTlR"
+ },
+ {
+  "decided_at": "2026-09-25T08:43:50.194Z",
+  "decided_by": "383900587877597186",
+  "id": "01M3BVM1CQFAJZ7MYET9FVFT3Z",
+  "layout_id": "01M2CZGR0RYXNCB777GPZGGBFN",
+  "notified_at": "2026-09-25T08:41:27.653Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-09-25T08:41:27.653Z",
+  "submitted_by": "383900587877597186",
+  "url": "https://layouts.zakventer.com/opal/"
+ },
+ {
+  "decided_at": "2026-09-25T08:44:00.882Z",
+  "decided_by": "383900587877597186",
+  "id": "01M3BVMRM5EVDC06C4FGHBRM8H",
+  "layout_id": "01M2CZGSMDSYWWFTH9DRP6880W",
+  "notified_at": "2026-09-25T08:41:51.441Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-09-25T08:41:51.441Z",
+  "submitted_by": "383900587877597186",
+  "url": "https://layouts.zakventer.com/opal/"
+ },
+ {
+  "decided_at": "2026-09-30T13:34:37.174Z",
+  "decided_by": "184412255822020608",
+  "id": "01M3RNGS9R96QE5WTBEA6NFFCV",
+  "layout_id": "01M2CZAGPNESHCDWES5EEVCB0X",
+  "notified_at": "2026-09-30T08:04:58.070Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-09-30T08:04:57.091Z",
+  "submitted_by": "581630432265895957",
+  "url": "https://reeve.garden/keyboards/keyboard/akl/2026/09/20/finch.html"
+ },
+ {
+  "decided_at": "2026-09-30T13:34:38.763Z",
+  "decided_by": "184412255822020608",
+  "id": "01M3RNH5R0XZ7NA1DQYE411Z9E",
+  "layout_id": "01M3R1B74GXTNFAXNVQDDE9HDA",
+  "notified_at": "2026-09-30T08:05:10.813Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-09-30T08:05:09.834Z",
+  "submitted_by": "581630432265895957",
+  "url": "https://reeve.garden/keyboards/keyboard/akl/2026/09/20/finch.html"
+ },
+ {
+  "decided_at": "2026-11-14T13:07:23.147Z",
+  "decided_by": "134510205550592000",
+  "id": "01M7CASANAYK08SSFVMADPWFBN",
+  "layout_id": "01M76XXCJXC1QJAYHW546NQFE1",
+  "notified_at": "2026-11-14T06:09:17.000Z",
+  "reason": null,
+  "status": "approved",
+  "submitted_at": "2026-11-14T06:09:16.970Z",
+  "submitted_by": "990947281857577002",
+  "url": "https://github.com/duodeath/Eclipse"
+ }
+]
