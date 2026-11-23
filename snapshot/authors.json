@@ -239,7 +239,7 @@
  },
  {
   "first_seen_at": "2026-11-17T17:41:16.139Z",
-  "last_seen_at": "2026-11-20T21:14:39.873Z",
+  "last_seen_at": "2026-11-22T12:51:07.871Z",
   "name": "tabidots",
   "name_source": "user",
   "user_id": "1100022284879659129"
@@ -407,7 +407,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-10-18T23:51:50.261Z",
+  "last_seen_at": "2026-11-23T03:14:06.282Z",
   "name": "brownfoxjumps",
   "name_source": "user",
   "user_id": "1215831841638977609"
@@ -540,7 +540,7 @@
  },
  {
   "first_seen_at": "2026-11-16T21:22:19.270Z",
-  "last_seen_at": "2026-11-21T14:39:02.572Z",
+  "last_seen_at": "2026-11-22T15:26:10.843Z",
   "name": "awedish",
   "name_source": "user",
   "user_id": "131937269681618945"
@@ -631,7 +631,7 @@
  },
  {
   "first_seen_at": "2026-11-17T03:12:40.348Z",
-  "last_seen_at": "2026-11-21T17:28:07.038Z",
+  "last_seen_at": "2026-11-22T20:03:45.114Z",
   "name": "yvesglavtcheff",
   "name_source": "user",
   "user_id": "1418799478772600862"
@@ -659,7 +659,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T18:46:22.970Z",
+  "last_seen_at": "2026-11-23T05:03:21.084Z",
   "name": "aaaazmuh",
   "name_source": "user",
   "user_id": "1451323852658577581"
@@ -799,7 +799,7 @@
  },
  {
   "first_seen_at": "2026-09-24T17:22:54.389Z",
-  "last_seen_at": "2026-11-21T20:40:47.154Z",
+  "last_seen_at": "2026-11-22T21:23:48.980Z",
   "name": "anonakl",
   "name_source": "user",
   "user_id": "1552728612510244965"
@@ -855,7 +855,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-20T22:27:41.151Z",
+  "last_seen_at": "2026-11-22T13:55:35.564Z",
   "name": "kai1349",
   "name_source": "user",
   "user_id": "168518261179154443"
@@ -911,7 +911,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:38:06.827Z",
-  "last_seen_at": "2026-11-14T04:59:17.777Z",
+  "last_seen_at": "2026-11-23T11:56:48.896Z",
   "name": "deeroh",
   "name_source": "user",
   "user_id": "184412255822020608"
@@ -1072,7 +1072,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-22T02:05:21.368Z",
+  "last_seen_at": "2026-11-23T04:20:07.264Z",
   "name": "nathrema",
   "name_source": "user",
   "user_id": "226128695377526784"
@@ -1121,7 +1121,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T20:16:44.038Z",
+  "last_seen_at": "2026-11-23T00:43:57.573Z",
   "name": "lvl.4poopwizard",
   "name_source": "user",
   "user_id": "239978154502914049"
@@ -1247,7 +1247,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-18T02:06:35.869Z",
+  "last_seen_at": "2026-11-22T11:09:27.904Z",
   "name": "paper2222",
   "name_source": "user",
   "user_id": "264738939288420353"
@@ -1694,6 +1694,13 @@
   "user_id": "390334946310488064"
  },
  {
+  "first_seen_at": "2026-11-23T09:46:29.443Z",
+  "last_seen_at": "2026-11-23T09:46:29.443Z",
+  "name": "391964281681215489",
+  "name_source": "client",
+  "user_id": "391964281681215489"
+ },
+ {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
   "last_seen_at": "2026-09-11T16:39:55.409Z",
   "name": "ochotone",
@@ -1975,7 +1982,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T22:18:57.269Z",
+  "last_seen_at": "2026-11-23T03:25:39.252Z",
   "name": "strawberryturtle",
   "name_source": "user",
   "user_id": "525811617473101824"
@@ -2296,6 +2303,13 @@
   "user_id": "679927923259736085"
  },
  {
+  "first_seen_at": "2026-11-22T20:06:42.396Z",
+  "last_seen_at": "2026-11-22T20:06:42.396Z",
+  "name": "lunilari",
+  "name_source": "user",
+  "user_id": "689017237302018108"
+ },
+ {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
   "last_seen_at": "2026-09-11T16:39:55.409Z",
   "name": "mateowoetam",
@@ -2521,7 +2535,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T19:11:08.185Z",
+  "last_seen_at": "2026-11-22T19:54:16.465Z",
   "name": "mocna",
   "name_source": "user",
   "user_id": "782784290769207336"
@@ -2612,7 +2626,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T14:47:33.992Z",
+  "last_seen_at": "2026-11-22T16:09:08.214Z",
   "name": ".phillip",
   "name_source": "user",
   "user_id": "82004107568615424"
@@ -2630,6 +2644,13 @@
   "name": "nyxisbraindead",
   "name_source": "import",
   "user_id": "834396974743552061"
+ },
+ {
+  "first_seen_at": "2026-11-22T21:18:57.080Z",
+  "last_seen_at": "2026-11-22T21:18:57.080Z",
+  "name": "841707563803869256",
+  "name_source": "client",
+  "user_id": "841707563803869256"
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
@@ -2843,7 +2864,7 @@
  },
  {
   "first_seen_at": "2026-11-16T13:21:00.373Z",
-  "last_seen_at": "2026-11-21T10:05:07.060Z",
+  "last_seen_at": "2026-11-22T12:12:26.231Z",
   "name": "ashishalexander",
   "name_source": "user",
   "user_id": "960361413732335646"
@@ -2885,7 +2906,7 @@
  },
  {
   "first_seen_at": "2026-09-11T16:39:55.409Z",
-  "last_seen_at": "2026-11-21T20:43:19.906Z",
+  "last_seen_at": "2026-11-23T05:45:25.362Z",
   "name": "duodeath",
   "name_source": "user",
   "user_id": "990947281857577002"
