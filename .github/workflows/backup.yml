@@ -2,16 +2,18 @@
 # releases as long as there is a nightly commit on a public repo" and "back up
 # the layout records, likes, etc. -- snapshot, not full reconstruction").
 # Fetches /v1/dump/latest.json from the public API, downloads the gzip it
-# names, verifies the sha256 it declares, then keeps only the current state
-# -- records, layout_formats, likes, authors, admins, bans, clients,
-# import_map, meta -- ONE FILE PER TABLE under snapshot/ -- and drops the event log, the revision history and the
-# caches. Committed as canonical JSON so git delta-compresses night to night.
+# names, verifies the sha256 it declares, then keeps the current state: EVERY
+# table the dump carries, ONE FILE PER TABLE under snapshot/, except the
+# history and cache tables named in SKIP (the event log, the revision history,
+# auth_cache). New tables are picked up automatically (2026-11-23: comments,
+# comment likes, WPM and link submissions had been missing because the list
+# was fixed). Committed as canonical JSON so git delta-compresses night to night.
 # A night with no change commits nothing.
 name: backup
 
 on:
   schedule:
-    - cron: "30 4 * * *" # 04:30 UTC daily, after akldb's own 04:00 dump job
+    - cron: "30 4 * * *" # 04:30 UTC daily, after akldb's own 03:00 dump job (GitHub often starts it hours late)
   workflow_dispatch: {}
 
 permissions:
@@ -37,9 +39,16 @@ jobs:
           echo "$sha  dump.json.gz" | sha256sum -c -
           gunzip -c dump.json.gz > dump.json
           rm -rf snapshot && mkdir snapshot
-          for t in records layout_formats likes authors admins bans clients import_map meta; do
+          SKIP='events layout_revs auth_cache'
+          tables=$(jq -r 'to_entries[] | select(.value | type == "array" or type == "object") | .key' dump.json)
+          for t in records layout_formats likes authors; do
+            echo "$tables" | grep -qx "$t" || { echo "dump has no $t table: refusing a partial snapshot"; exit 1; }
+          done
+          for t in $tables; do
+            case " $SKIP " in *" $t "*) echo "skip $t"; continue ;; esac
             jq -S --indent 1 ".$t" dump.json > "snapshot/$t.json"
           done
+          ls snapshot
           rm -f dump.json
           jq '{date, seq, layout_count, source_sha256: .sha256, source_key: .key}' latest.json > manifest.json
           rm -f dump.json.gz latest.json
