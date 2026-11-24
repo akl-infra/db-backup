@@ -975,19 +975,6 @@
   "via": "discord"
  },
  {
-  "body": "modernized gallium\nrefer to trillium-max for idealized alt fingering",
-  "decided_at": "2026-10-26T19:10:20.713Z",
-  "decided_by": "134510205550592000",
-  "id": "01M5WS1GGTEANG886NPW7QJT3T",
-  "layout_id": "01M5QSRQVBFVX5RPT5MT2R97ZP",
-  "reason": null,
-  "review_version": 0,
-  "status": "approved",
-  "submitted_at": "2026-10-26T18:54:52.442Z",
-  "user_id": "226128695377526784",
-  "via": "discord"
- },
- {
   "body": "custom layout that rejects home-row as resting positions for all fingers, avoids >1 key vertical travel in middle/pinky fingers, and considers alt fingerings as a resource to exploit instead of to be avoided.\n\nachieves columnar-stagger-esque effect on standard ANSI due to its non-standard resting positions, avoids pinkies having to stretch to top-row or middles having to curl to bottom-row, and considers alts a priori instead of a posteriori on the computation of the layout's arrangement, exploiting them in order to maximize flow comfort and rolls while erasing uncomfortable scissors/redirects or SFBs/SFTs without any magic/chiral keys.\n\nbeyond the existing stats, I feel like there's many aspects that make a layout comfortable/uncomfortable that haven't yet been entirely captured. inspired by most fast typist's heavy reliance on strange alt/non-standard finger habits, i'm seeking to point them out, classify them, quantize them on an analyzer, and create a layout that's based off of these new premises, exploiting them for speed while retaining the optimal ergonomics and comfort of a properly analyzed and computed layout.",
   "decided_at": "2026-10-27T05:15:01.542Z",
   "decided_by": "184412255822020608",
