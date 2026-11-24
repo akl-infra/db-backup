@@ -1694,5 +1694,21 @@
   "user_id": "1451323852658577581",
   "via": "client:01M238JD34ZE1C0YJ15N02Y293",
   "wpm": 161
+ },
+ {
+  "decided_at": "2026-11-23T22:40:07.485Z",
+  "decided_by": "184412255822020608",
+  "id": "01M84VPVHK784YG25QX7HGYJ11",
+  "layout_id": "01M2CZBAW469YFAAGYRT8K39ZK",
+  "notified_at": "2026-11-23T18:46:48.149Z",
+  "proof": "https://cdn.discordapp.com/attachments/807843766945841243/1574495863320084620/image.png?ex=6b05db0a&is=6b04898a&hm=17c85b2fa44220b3ac0a5ab3153c4b84ddb44cfc641c159040e1207aa730cd01",
+  "reason": null,
+  "review_version": 0,
+  "status": "approved",
+  "submitted_at": "2026-11-23T18:46:48.115Z",
+  "submitted_by": "237981623847485451",
+  "user_id": "237981623847485451",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293",
+  "wpm": 85
  }
 ]
