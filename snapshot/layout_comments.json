@@ -1285,5 +1285,18 @@
   "submitted_at": "2026-11-22T19:02:59.629Z",
   "user_id": "131937269681618945",
   "via": "discord"
+ },
+ {
+  "body": "deliberately very low right index usage to allow for hand flexiblity for `rl`",
+  "decided_at": "2026-11-24T04:03:30.078Z",
+  "decided_by": "383900587877597186",
+  "id": "01M85R3BT9M6HAVRH107500RWB",
+  "layout_id": "01M85MQFNF011N3Z329ZBFJ28B",
+  "reason": null,
+  "review_version": 0,
+  "status": "approved",
+  "submitted_at": "2026-11-24T03:02:58.121Z",
+  "user_id": "226128695377526784",
+  "via": "discord"
  }
 ]
