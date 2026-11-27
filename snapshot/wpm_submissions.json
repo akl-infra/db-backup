@@ -1710,5 +1710,37 @@
   "user_id": "237981623847485451",
   "via": "client:01M238JD34ZE1C0YJ15N02Y293",
   "wpm": 85
+ },
+ {
+  "decided_at": "2026-11-26T04:15:42.344Z",
+  "decided_by": "184412255822020608",
+  "id": "01M8B0ZDBAKF07X8EFJ7H4XHBM",
+  "layout_id": "01M2CZKXV7WD1MR841CJMEY22Z",
+  "notified_at": "2026-11-26T04:14:17.993Z",
+  "proof": "https://discord.com/channels/807843650717483049/821925719604985909/1575297222709354566",
+  "reason": null,
+  "review_version": 0,
+  "status": "approved",
+  "submitted_at": "2026-11-26T04:14:17.962Z",
+  "submitted_by": "1350318926390759504",
+  "user_id": "1350318926390759504",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293",
+  "wpm": 131
+ },
+ {
+  "decided_at": "2026-11-26T05:17:06.581Z",
+  "decided_by": "383900587877597186",
+  "id": "01M8B4HZSTG7VTCPRWR7BKQ84Z",
+  "layout_id": "01M2CZNMYGMGVFFVDGSVP1BDPD",
+  "notified_at": "2026-11-26T05:16:52.448Z",
+  "proof": "https://discord.com/channels/807843650717483049/821925719604985909/1514166331400917052",
+  "reason": null,
+  "review_version": 0,
+  "status": "approved",
+  "submitted_at": "2026-11-26T05:16:52.410Z",
+  "submitted_by": "383900587877597186",
+  "user_id": "383900587877597186",
+  "via": "client:01M238JD34ZE1C0YJ15N02Y293",
+  "wpm": 179
  }
 ]
